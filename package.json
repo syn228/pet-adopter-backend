@@ -1,0 +1,7 @@
+{
+  "name": "backend",
+  "private": true,
+  "dependencies": {
+    "progress": "^2.0.0"
+  }
+}
